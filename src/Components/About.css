@@ -1,0 +1,65 @@
+.room1:hover{
+
+
+    background-color: rgb(10, 77, 63);
+    color: rgb(255, 239, 239);
+    transition:  1s, 1s, transform 1s;
+    font-size: 18px;
+       }
+
+
+
+  
+       .room1{
+
+        background-color: aliceblue;
+        padding: 15px;
+        font-weight: 500;
+        font-style: italic;
+        border: none;
+  position: relative;
+  bottom: 15rem;
+  
+    
+      
+        
+        
+           }
+
+
+
+           .heading{
+
+            background-color: aliceblue;
+            padding: 15px;
+            font-weight: 500;
+            font-style: italic;
+            border: none;
+      position: relative;
+
+      
+        
+          
+            
+            
+               }
+               .heading:hover{
+
+
+                background-color: rgb(10, 77, 63);
+                color: rgb(255, 239, 239);
+                transition:  1s, 1s, transform 1s;
+                font-size: 18px;
+                   }
+
+
+           .container{ transition:  1s, 1s, transform 1s;
+
+
+
+           }
+
+
+
+
+

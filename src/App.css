@@ -1,0 +1,421 @@
+
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ .Navbar{
+
+
+  display: flex;
+padding: 9px;
+  position: fixed;
+  top:0;
+z-index:999;
+  background-color: azure;
+width: 100%;
+
+ }
+
+ .Navbar h1{
+
+color: rgb(10, 77, 63);
+
+
+
+ }
+ /* these are the Nav-links in Navbar*/
+ .links{
+
+  color: rgb(108, 110, 109);
+margin-top: 26px;
+margin-left: 70px;
+text-decoration: none;
+ font-style: italic;
+font-size: 20px;
+}
+ .links:hover{
+color:black;
+font-size:25px;
+transition-timing-function: ease-in;
+transition:  1s, 1s, transform 0.5s;
+
+
+ }
+ li{
+  list-style: none;
+ }
+
+ .Navbar p{
+color:rgb(88, 88, 88);
+font-size: 25px;
+  margin-left: 34rem;
+  margin-top: 22px;
+
+ }
+ img{
+width: 100%;
+height: 60rem;
+
+ }
+ .resort{
+
+  position: relative;
+  right: 15px;
+  left: 15px;
+  bottom: 650px;
+ 
+
+
+ }
+
+ .resort h1{
+
+font-size: 100px;
+color:rgb(10, 77, 63);
+margin-bottom: 20px;
+ }
+
+   .Main-room{
+
+background-color: aliceblue;
+padding: 15px;
+font-weight: 500;
+font-style: italic;
+border: none;
+position: relative;
+top:5rem;
+right: 25rem;
+
+
+   }
+   .Main-room:hover{
+
+
+background-color: rgb(10, 77, 63);
+color: rgb(240, 237, 237);
+transition:  1s, 1s, transform 1s;
+font-size: 18px;
+   }
+   .Booking{
+
+display: flex;
+
+justify-items: center;
+margin-left: 13rem;
+background-color: rgba(36, 65, 54, 0.49); 
+padding: 2.5rem;
+margin-top: 23rem;
+margin-bottom: 0;
+width: 70%;
+border-radius: 10px;
+
+   }
+   .calendar{
+
+    border-right: 2px solid rgba(43, 99, 72, 0.48);}
+   .Booking h4{
+
+font-size: 20px;
+color:rgb(10, 77, 63); 
+margin-right: 10px;
+   }
+
+   .Booking input{
+
+
+    color:rgb(9, 106, 85); 
+    margin: 15px;
+       }
+
+   .check{
+
+background-color: rgb(10, 77, 63); ;
+height: 50px;
+color: aliceblue;
+font-size: 15px;
+transition:  0s, 0s, transform 0s;
+margin-top: 40px;
+margin-left: 20px;
+   }
+   .check :hover {
+
+font-size: 25px;
+transition:  1s, 1s, transform 1s;
+
+   }
+ 
+
+
+   .About2{
+
+    width: 500px;
+    height: 400px;
+    margin-left:5rem ;
+    margin-top: 30rem;
+    
+       }
+       
+    .maldives{
+
+position: relative;
+bottom: 15rem;
+
+    }
+      
+       .AboutUs-sec{
+
+width: 50rem;
+margin-left: 30rem;
+margin-top: 20rem;
+ }
+
+
+ .AboutUs-sec p{
+
+font-weight: 200;
+font-size: 35px;
+ }
+ .AboutUs-sec h4{
+
+  font-weight: 200;
+  
+  
+   }
+       .us{
+color: aliceblue;
+background-color:
+rgb(10, 77, 63);
+padding: 12px;
+border-radius: 5px;
+margin-left: 50rem;
+
+  }
+
+.discover{
+
+width: 450px;
+margin-left: 20rem;
+margin-bottom:0rem;
+padding-top: 0;
+position: relative;
+top: 20rem;
+
+}
+  .discover h4{
+
+font-weight: 200;
+color:rgb(10, 77, 63); 
+  }
+  .discover h2{
+font-size: 45px;
+
+    color:rgb(10, 77, 63); 
+
+  }
+  .discover p{
+    font-size: 28px;
+    font-weight: 200;
+        color:rgb(10, 77, 63); 
+    text-align: left;
+    
+    
+      }
+
+
+      .discover button{
+        color: aliceblue;
+        background-color:
+        rgb(10, 77, 63);
+        padding: 12px;
+        border-radius: 5px;
+       
+        
+          }
+
+          .img{
+
+            width: 300px;
+            margin-left: 80rem;
+            margin-top: 0;
+            padding-top: 0;
+            
+            }
+            
+            .egypt{
+            
+            position: relative;
+            left: 1rem;
+            bottom: 25rem;
+            }
+                  .london{
+                    position: relative;
+                    right: 18rem;
+                    bottom: 25rem;
+              
+            }
+            .france{
+            
+            position: relative;
+            left: 1rem;
+            bottom: 25rem;
+            }
+            .canada{
+              position: relative;
+              right: 18rem;
+              bottom: 25rem;
+              
+            }
+
+
+
+.footer {
+
+
+width:100%;
+height: 25rem;
+background-color:rgba(10, 77, 62, 0.945);
+margin-top: 0;
+padding-top: 0;
+}
+
+.footer h1{
+
+font-size: 50px;
+margin-left: 10rem;
+color:azure;
+margin-bottom: 25px;
+
+}
+.icon{
+
+display: flex;
+justify-items: flex-end;
+justify-content: space-between;
+
+color:azure;
+
+}
+
+.icon ul{
+
+  display: flex;
+margin-top: 30px;
+margin-right: 5rem;
+
+}
+
+.icon ul li{
+
+color: rgb(10, 77, 63);
+  margin: 20px;
+font-size: 35px;
+margin-top: 20px;
+color:azure;
+
+
+
+}
+
+.important{
+
+
+  display: flex;
+  margin-left: 38rem;
+
+  
+}
+.important h4{
+
+
+  color:azure;
+font-weight: 600;
+font-size: 20px;
+}
+.important li{
+  color:azure;
+  margin: 10px;
+font-size: 18px;
+}
+.news{
+  color:azure;
+  display:flex;
+  flex-direction: column;
+margin-left: 8rem;
+margin-top: 22px;
+}
+.news input{
+
+
+  padding: 7px;
+ margin-top: 10px;
+ border:2px solid rgb(168, 165, 165);
+}
+.news label{
+
+font-size: 25px;
+font-weight: 450;
+color:rgb(10, 77, 63) ;
+}
+.news button {
+
+
+padding: 10px;
+background-color:rgb(10, 77, 63); 
+color: azure;
+margin-top: 20px;
+}
+
+.policy ul{
+
+border-top:2px solid rgba(232, 233, 233, 0.278) ;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+
+
+}
+
+
+.policy li{
+
+  margin-top: 30px;
+  color:azure
+}
