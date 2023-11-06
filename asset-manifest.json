@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/React-Booking-App/static/css/main.d9ff7512.css",
+    "main.js": "/React-Booking-App/static/js/main.0b35d8d0.js",
+    "static/media/night.jpg": "/React-Booking-App/static/media/night.9c538e65aeb9fc8af816.jpg",
+    "static/media/outerView.jpg": "/React-Booking-App/static/media/outerView.953ffb314a2e28a371d4.jpg",
+    "static/media/swimmingpool.jpg": "/React-Booking-App/static/media/swimmingpool.807e1ca8248aae630023.jpg",
+    "static/media/food.jpg": "/React-Booking-App/static/media/food.e9e18336166314bc5b6b.jpg",
+    "static/media/apartments.jpg": "/React-Booking-App/static/media/apartments.bf606bb3c85e473a92a9.jpg",
+    "static/media/GameRoom.jpg": "/React-Booking-App/static/media/GameRoom.80f95afa11972f712bf6.jpg",
+    "static/media/Breakfast.jpg": "/React-Booking-App/static/media/Breakfast.e0f345970610d8a60e81.jpg",
+    "static/media/maldives.jpg": "/React-Booking-App/static/media/maldives.01b0b051354a3abbf982.jpg",
+    "static/media/canada.jpg": "/React-Booking-App/static/media/canada.0ee1e8727d3c4a6527ba.jpg",
+    "static/media/greece.jpg": "/React-Booking-App/static/media/greece.70341bc628c1896102f3.jpg",
+    "static/media/bedroom.jpg": "/React-Booking-App/static/media/bedroom.86956f23b80029af6e87.jpg",
+    "static/media/beach.jpg": "/React-Booking-App/static/media/beach.d14f7c60a5813ba5fc54.jpg",
+    "static/media/arab.jpg": "/React-Booking-App/static/media/arab.bc57f9aec2c8f4357066.jpg",
+    "static/media/france.jpg": "/React-Booking-App/static/media/france.20a423a432d61b1bc526.jpg",
+    "static/media/schuttle.jpg": "/React-Booking-App/static/media/schuttle.5263fc07068b8db83671.jpg",
+    "static/media/egypt.jpg": "/React-Booking-App/static/media/egypt.7840e2c15c7788a082f6.jpg",
+    "static/media/resortRoom.jpg": "/React-Booking-App/static/media/resortRoom.ce7e8706a959711d7e44.jpg",
+    "static/media/resort.jpg": "/React-Booking-App/static/media/resort.364c7de7fcb3e7469584.jpg",
+    "static/media/lakeview.jpg": "/React-Booking-App/static/media/lakeview.df85146cf29efaa9b3c1.jpg",
+    "static/media/spa.jpg": "/React-Booking-App/static/media/spa.a24a86675eb04ddf0b97.jpg",
+    "static/media/nightView.jpg": "/React-Booking-App/static/media/nightView.5371a7d8bfc8979a849a.jpg",
+    "static/media/frau.jpg": "/React-Booking-App/static/media/frau.b13baec1cec8180b62cd.jpg",
+    "static/media/london.jpg": "/React-Booking-App/static/media/london.ca017c6abd77aabc3aa9.jpg",
+    "static/media/luftballon.jpg": "/React-Booking-App/static/media/luftballon.d4e2310024962a8d2c9b.jpg",
+    "static/media/slick.svg": "/React-Booking-App/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-Booking-App/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-Booking-App/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-Booking-App/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-Booking-App/index.html",
+    "main.d9ff7512.css.map": "/React-Booking-App/static/css/main.d9ff7512.css.map",
+    "main.0b35d8d0.js.map": "/React-Booking-App/static/js/main.0b35d8d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ff7512.css",
+    "static/js/main.0b35d8d0.js"
+  ]
+}
